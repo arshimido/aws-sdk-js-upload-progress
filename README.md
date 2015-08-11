@@ -20,6 +20,6 @@ we added some values to the emitted event payload in order to identify the assoc
 
 **{loaded: 180224, total: 13566183, part: 1, name: "122345.mp4", key: "ShMOAxJN"}**
 
-now you know the first is associated with file named **12.mp4** it's key is **idOn4M86**
+now you know the first is associated with file **12.mp4** it's key is **idOn4M86**
 
-the second id addociated with  file named **122345.mp4** it's key is **ShMOAxJN**
+the second is associated with file **122345.mp4** it's key is **ShMOAxJN**
