@@ -1,5 +1,8 @@
 # aws-sdk-js-upload-progress
-This is an updated version of aws-sdk-js to enable tracking progress of each file separately while uploading concurrent files.
+This is an updated version of ***aws-sdk-js (version 2.1.44)*** to enable tracking progress of each file separately while uploading concurrent files on **AWS S3**.
+
+***original repository: https://github.com/aws/aws-sdk-js***
+
 
 if you are trying to upload multiple files concurrently on amazon s3 using their sdk, while tracking progress you have to listen on "httpUploadProgress" event, but you get payload like this:
 
